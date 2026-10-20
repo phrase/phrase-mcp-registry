@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "phrase-eu": {
+      "url": "https://mcp.eu.phrase.com"
+    },
+    "phrase-us": {
+      "url": "https://mcp.us.phrase.com"
+    }
+  }
+}

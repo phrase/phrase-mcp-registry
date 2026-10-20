@@ -1,0 +1,11 @@
+{
+  "name": "phrase",
+  "description": "Phrase MCP server: language intelligence platform for translation, terminology, and quality.",
+  "author": {
+    "name": "Phrase"
+  },
+  "homepage": "https://developers.phrase.com/en/mcp-server",
+  "repository": "https://github.com/phrase/phrase-mcp-registry",
+  "logo": "assets/logo.png",
+  "keywords": ["phrase", "mcp", "localization", "translation", "terminology"]
+}
